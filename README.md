@@ -3,6 +3,18 @@
 
 This is simple and aesthetic looking landing page for website and it have dark mode too.
 
+
+## Screenshots Desktop Version
+
+![App Screenshot](https://raw.githubusercontent.com/sgrgug/Landing-Page-by-Tailwind/master/landingpage-ss1.png)
+
+
+## Screenshots Mobile Version
+
+![App Screenshot](https://raw.githubusercontent.com/sgrgug/Landing-Page-by-Tailwind/master/landingpage-ss2.png)
+
+
+
 ## Features
 
 - Light/dark mode toggle
