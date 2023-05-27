@@ -41,25 +41,6 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
-
-```bash
-  npm install vite
-```
-
-Paste Inside Package.json
-
-```bash
-  "scripts": {
-    "dev": "vite"
-  }
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
 
 
 ## Tech Stack
