@@ -47,13 +47,3 @@ Go to the project directory
 
 **Client:** TailwindCSS
 
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run dev
-```
-
